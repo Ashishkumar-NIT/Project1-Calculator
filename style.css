@@ -1,0 +1,17 @@
+.big-container{
+    background-color: black;
+}
+.AC,.percentage,.backspace,.division,.multiply,.subtract,.addition{
+    background-color: rgb(64, 64, 64);
+    color: orange;
+}
+
+.seven,.eight,.nine,.four,.five,.six,.one,.two,.three,.zero-zero,.zero,.decimal{
+    background-color: rgb(103, 103, 103);
+    /* background-color: rgb(64, 64, 64); */
+    color: white;
+}
+.display{
+    background-color: orange ;
+    color:  rgb(103, 103, 103);
+}
